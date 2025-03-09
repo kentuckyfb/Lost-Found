@@ -42,3 +42,6 @@ A **file search API** that uses **NLP** and **TF-IDF** to find files/folders bas
 - **Search**: TF-IDF, Scikit-learn.
 
 ---
+
+
+![image](https://github.com/user-attachments/assets/c92cb71d-8c28-4703-8a35-6f9186dc1ef3)
